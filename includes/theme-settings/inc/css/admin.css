@@ -1,0 +1,61 @@
+.cnet_metabox_table { width: 100%; position: relative; }
+.cnet_metabox_table tr { height: 50px; width: 100%; position: relative; padding: 5px; margin: 0; border-bottom: 1px solid #CCCCCC; border-top: 1px solid #FFFFFF; }
+.cnet_metabox_table tr:hover { background: #FDFCE8; }
+.cnet_metabox_table tr td { border: none; border-top: 1px solid #FFFFFF; border-bottom: 1px solid #EDEDED; padding: 5px 10px; }
+.cnet_metabox_table tr td.label { font-weight: bolder; width: 130px; }
+.cnet_metabox_table tr td.label2 { font-weight: bolder; width: 130px; }
+.cnet_metabox_table tr td.notes { font-style: italic; }
+.cnet_metabox_table tr td.notes input { width: 98%; }
+.cnet_metabox_table tr td.notes span.notes-label { margin-right: 20px; }
+.cnet_metabox_table tr td input[type=radio] { width: auto; }
+
+.cnet_metabox_table input { width: 98%; }
+.cnet_metabox_table input[type='checkbox'] { width: auto; }
+
+.notes-table { margin: 0; padding: 0; width: 100%; }
+.notes-table tr { height: 20px; width: 100%; position: relative; padding: 0; margin: 0; }
+.notes-table tr td.nlabel { width: 90px; padding: 0; margin: 0; }
+
+.mradio { float: none; position: relative; width: 15px !important; }
+.bridge-icons { vertical-align: top; }
+
+.cv-deg { width: 40px !important; }
+.cv-min { width: 95px !important; }
+.cv-convert { width: 160px !important; }
+.cv-lnm     { width: 250px !important; }
+.cv-lnmdec  { width: 175px !important; }
+.cv-district  { width: 110px !important; }
+.cv-llnr    { width: 80px !important; }
+.cv-llnrdesc { width: 400px !important; }
+.cv-ad_id { width: 50px !important; }
+.zoom-level-entry { width: 40px !important; }
+
+.was { background: url(../images/cv-refresh.png) no-repeat; width: 16px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.refresh-lat   { background: url(../images/cv-refresh.png) no-repeat; width: 16px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.refresh-lon   { background: url(../images/cv-refresh.png) no-repeat; width: 16px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.convert-lnm   { background: url(../images/cv-refresh.png) no-repeat; width: 16px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.convert-llnr  { background: url(../images/cv-refresh.png) no-repeat; width: 16px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.refresh-ad_id { background: url(../images/cv-refresh.png) no-repeat; width: 16px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.url-refresh  { background: url(../images/cv-refresh.png) no-repeat; width: 16px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+
+.clear-lat    { background: url(../images/cv-clear.png)   no-repeat; width: 18px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.clear-lon    { background: url(../images/cv-clear.png)   no-repeat; width: 18px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.clear-lnm    { background: url(../images/cv-clear.png)   no-repeat; width: 18px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.clear-llnr   { background: url(../images/cv-clear.png)   no-repeat; width: 18px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+.clear-ad_id  { background: url(../images/cv-clear.png)   no-repeat; width: 18px; height: 18px; float: left; cursor: pointer; margin: 0px 0px 0px 0px; }
+
+.highlight { width: 20px !important; margin-left: 1px; }
+
+.mdepth { width: 100px !important; }
+.mlivenotes { width: 608px !important; }
+
+.mrate { width: 608px !important; }
+.mratenotes { width: 608px !important; margin-top: 10px; }
+
+.acf_relationship .relationship_list {  }
+
+.miles_alert { margin: 30px auto 10px auto; border: 1px solid #FFDB4F; background: #FFF9CC url(../images/admin-alert-icon.png) no-repeat; background-position: 10px 14px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; padding: 10px 10px 10px 50px; width: 84%; font-size: 14px; font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",sans-serif; line-height: 18px; }
+
+#order_Reset { display: none; }
+
+.chartlet-option { display: none; }

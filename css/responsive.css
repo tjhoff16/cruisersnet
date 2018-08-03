@@ -1,0 +1,34 @@
+@media (max-width: 480px) {
+	
+	.entry-header h2 {
+		text-align: center;
+		font-size: 30px;
+		margin: 6px;
+	}
+	
+}
+
+@media (max-width: 480px) {
+	
+	.social-search {
+		width: 100%;
+		height: auto;
+		text-align: center;
+		display: block;
+		margin-bottom: 20px;
+	}
+	
+	.social-icons div {
+		margin-top: 10px !important;
+	}
+	
+}
+
+@media (max-width: 480px) {
+	
+	.sponsors img {
+		width: 25% !important;
+		height: auto;
+	}
+	
+}

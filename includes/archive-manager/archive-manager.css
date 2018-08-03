@@ -1,0 +1,128 @@
+.archive-form {
+	
+}
+
+.archive-clear {
+	clear: both;
+}
+
+.archive-title {
+	border: 1px solid #E5E5E5;
+	padding: 10px;
+	background: #ffffff;
+	font-size: 14px;
+	line-height: 1.4;
+	font-weight: bold;
+}
+
+.archive-options {
+	border-left: 1px solid #E5E5E5;
+	border-right: 1px solid #E5E5E5;
+	border-bottom: 1px solid #E5E5E5;
+	padding: 10px;
+	background: #ffffff;
+}
+
+.archive-option {
+	float: left;
+}
+
+.archive-option .archive-input {
+	width: 100%;
+	padding: 5px;
+}
+
+.archive-option select {
+	width: 100%;
+}
+
+.archive-footer {
+	border-left: 1px solid #E5E5E5;
+	border-right: 1px solid #E5E5E5;
+	border-bottom: 1px solid #E5E5E5;
+	padding: 10px;
+	background: #F5F5F5;
+	margin-bottom: 30px;
+}
+
+.archive-submit {
+	
+}
+
+.archive-no-results {
+	padding: 20px !important;
+	text-align: center;
+}
+
+.archive-results-column {
+	padding: 20px !important;
+}
+
+.archive-50 {
+	width: 50%;
+}
+
+.archive-25 {
+	width: 23%;
+}
+
+.archive-right {
+	float: right;
+}
+
+.archive-push {
+	margin-left: 2%;
+}
+
+.archive-margin {
+	margin-left: 20px;
+}
+
+.archive-post-title {
+	width: 40%;
+	font-weight: bold;
+}
+
+.tablenav-pages {
+	float: right;
+	margin: 10px 0;
+}
+
+.pagination-links a {
+	border: 1px solid #E8E8E8;
+	background: #EBEBEB;
+	color: #b4b4b4;
+	height: 16px;
+	min-width: 17px;
+	display: inline-block;
+	padding: 3px 5px 7px;
+	text-align: center;
+	text-decoration: none;
+	cursor: default;
+}
+
+.active-pagi {
+	border: 1px solid #D2D2D2 !important;
+	background: #E4E4E4 !important;
+	color: #0084BC !important;
+	cursor: pointer !important;
+}
+
+.active-pagi:hover {
+	border: 1px solid #589CDB !important;
+	background: #009FD4 !important;
+	color: #ffffff !important;
+}
+
+.archive-action {
+	cursor: pointer;
+	line-height: 22px;
+}
+
+.archive-action span {
+	font-size: 20px !important;
+}
+
+.archive-options-column {
+	
+}

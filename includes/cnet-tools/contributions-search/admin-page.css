@@ -1,0 +1,63 @@
+.top-contributors {
+	margin-bottom: 30px;
+}
+
+.contributions-form {
+	
+}
+
+.contributions-clear {
+	clear: both;
+}
+
+.contributions-title {
+	border: 1px solid #E5E5E5;
+	padding: 10px;
+	background: #ffffff;
+	font-size: 14px;
+	line-height: 1.4;
+	font-weight: bold;
+}
+
+.contributions-options {
+	border-left: 1px solid #E5E5E5;
+	border-right: 1px solid #E5E5E5;
+	border-bottom: 1px solid #E5E5E5;
+	padding: 10px;
+	background: #ffffff;
+}
+
+.contributions-option {
+	float: left;
+}
+
+.contributions-option .contributions-input {
+	width: 100%;
+	padding: 5px;
+}
+
+.contributions-option select {
+	width: 100%;
+}
+
+.contributions-footer {
+	border-left: 1px solid #E5E5E5;
+	border-right: 1px solid #E5E5E5;
+	border-bottom: 1px solid #E5E5E5;
+	padding: 10px;
+	background: #F5F5F5;
+	margin-bottom: 30px;
+}
+
+.contributions-right {
+	float: right;
+}
+
+.contributions-75 {
+	width: 75%;
+	margin-right: 2%;
+}
+
+.contributions-25 {
+	width: 23%;	
+}

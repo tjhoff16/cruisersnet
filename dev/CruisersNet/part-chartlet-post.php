@@ -1,0 +1,3 @@
+								<div class="post-chartlet">
+									<iframe width="320" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="<?php bloginfo('template_directory'); ?>/includes/features/chartlet.php?ll=<?php echo get_post_meta($post->ID,'cvcf-latitude_dec',true); ?>,<?php echo get_post_meta($post->ID,'cvcf-longitude_dec',true); ?>&z=<?php echo get_post_meta($post->ID,'cvcf-chartletzoomlevel',true); ?><?php if (get_post_meta($post->ID,'marina_highlight',true) == 'yes') { echo '&highlight=1'; } ?>;output=embed"></iframe>
+								</div>
